@@ -62,5 +62,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📬
 For questions or suggestions, reach out via:
-- **Email**: your-email@example.com
+- **Email**: developer.mozadded@gmail.com
 - **GitHub Issues**: [Open an issue](https://github.com/mozaddedalfeshani/mclx_ml_exe/issues)
